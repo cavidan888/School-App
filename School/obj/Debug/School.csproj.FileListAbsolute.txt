@@ -1,0 +1,13 @@
+c:\users\user\source\repos\School\School\bin\Debug\School.exe.config
+c:\users\user\source\repos\School\School\bin\Debug\School.exe
+c:\users\user\source\repos\School\School\bin\Debug\School.pdb
+c:\users\user\source\repos\School\School\obj\Debug\School.csprojAssemblyReference.cache
+c:\users\user\source\repos\School\School\obj\Debug\School.Form1.resources
+c:\users\user\source\repos\School\School\obj\Debug\School.Properties.Resources.resources
+c:\users\user\source\repos\School\School\obj\Debug\School.csproj.GenerateResource.cache
+c:\users\user\source\repos\School\School\obj\Debug\School.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\School\School\obj\Debug\School.exe
+c:\users\user\source\repos\School\School\obj\Debug\School.pdb
+c:\users\user\source\repos\School\School\obj\Debug\School.Choose.resources
+c:\users\user\source\repos\School\School\obj\Debug\School.Adder.resources
+C:\Users\user\source\repos\School\School\obj\Debug\School.Info.resources
